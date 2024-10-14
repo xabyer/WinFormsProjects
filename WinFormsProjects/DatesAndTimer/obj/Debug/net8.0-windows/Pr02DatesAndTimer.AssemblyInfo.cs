@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Pr01StopWatch")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Pr02DatesAndTimer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+575da4b6392d394dd6c61bfebde7cdd3552704e7")]
-[assembly: System.Reflection.AssemblyProductAttribute("Pr01StopWatch")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Pr01StopWatch")]
+[assembly: System.Reflection.AssemblyProductAttribute("Pr02DatesAndTimer")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Pr02DatesAndTimer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

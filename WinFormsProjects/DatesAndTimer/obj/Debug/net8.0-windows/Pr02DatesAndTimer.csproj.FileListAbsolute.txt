@@ -1,0 +1,17 @@
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\DatesAndTimer\bin\Debug\net8.0-windows\Pr02DatesAndTimer.exe
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\DatesAndTimer\bin\Debug\net8.0-windows\Pr02DatesAndTimer.deps.json
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\DatesAndTimer\bin\Debug\net8.0-windows\Pr02DatesAndTimer.runtimeconfig.json
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\DatesAndTimer\bin\Debug\net8.0-windows\Pr02DatesAndTimer.dll
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\DatesAndTimer\bin\Debug\net8.0-windows\Pr02DatesAndTimer.pdb
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\DatesAndTimer\obj\Debug\net8.0-windows\DatesAndTimer.frmDatesTimer.resources
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\DatesAndTimer\obj\Debug\net8.0-windows\Pr02DatesAndTimer.csproj.GenerateResource.cache
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\DatesAndTimer\obj\Debug\net8.0-windows\Pr02DatesAndTimer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\DatesAndTimer\obj\Debug\net8.0-windows\Pr02DatesAndTimer.AssemblyInfoInputs.cache
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\DatesAndTimer\obj\Debug\net8.0-windows\Pr02DatesAndTimer.AssemblyInfo.cs
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\DatesAndTimer\obj\Debug\net8.0-windows\Pr02DatesAndTimer.csproj.CoreCompileInputs.cache
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\DatesAndTimer\obj\Debug\net8.0-windows\Pr02DatesAndTimer.sourcelink.json
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\DatesAndTimer\obj\Debug\net8.0-windows\Pr02DatesAndTimer.dll
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\DatesAndTimer\obj\Debug\net8.0-windows\refint\Pr02DatesAndTimer.dll
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\DatesAndTimer\obj\Debug\net8.0-windows\Pr02DatesAndTimer.pdb
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\DatesAndTimer\obj\Debug\net8.0-windows\Pr02DatesAndTimer.genruntimeconfig.cache
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\DatesAndTimer\obj\Debug\net8.0-windows\ref\Pr02DatesAndTimer.dll
