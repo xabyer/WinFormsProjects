@@ -6,5 +6,7 @@ namespace Pr01StopWatch
         {
             InitializeComponent();
         }
+
+        
     }
 }
