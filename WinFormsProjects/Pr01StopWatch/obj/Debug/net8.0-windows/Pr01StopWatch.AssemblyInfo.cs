@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pr01StopWatch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e96c4a54e72e311e0a5490a50865d57736e160d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f2acd408c7bf822dfa1f1975416a82461bd3750")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pr01StopWatch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pr01StopWatch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

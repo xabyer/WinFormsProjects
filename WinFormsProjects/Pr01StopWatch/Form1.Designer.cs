@@ -37,6 +37,7 @@
             lblStartTime = new Label();
             lblStopTime = new Label();
             lblElapsedTime = new Label();
+            btnClear = new Button();
             SuspendLayout();
             // 
             // btnStart
@@ -47,15 +48,18 @@
             btnStart.TabIndex = 0;
             btnStart.Text = "&Start";
             btnStart.UseVisualStyleBackColor = true;
+            btnStart.Click += btnStart_Click;
             // 
             // btnStop
             // 
+            btnStop.Enabled = false;
             btnStop.Location = new Point(59, 105);
             btnStop.Name = "btnStop";
             btnStop.Size = new Size(75, 23);
             btnStop.TabIndex = 1;
             btnStop.Text = "S&top";
             btnStop.UseVisualStyleBackColor = true;
+            btnStop.Click += btnStop_Click;
             // 
             // btnExit
             // 
@@ -65,6 +69,7 @@
             btnExit.TabIndex = 2;
             btnExit.Text = "&Exit";
             btnExit.UseVisualStyleBackColor = true;
+            btnExit.Click += btnExit_Click;
             // 
             // tbStartTime
             // 
@@ -72,6 +77,7 @@
             tbStartTime.Name = "tbStartTime";
             tbStartTime.Size = new Size(207, 23);
             tbStartTime.TabIndex = 3;
+            tbStartTime.TextChanged += tbStartTime_TextChanged;
             // 
             // tbStopTime
             // 
@@ -114,11 +120,22 @@
             lblElapsedTime.TabIndex = 8;
             lblElapsedTime.Text = "Elapsed Time (s)";
             // 
+            // btnClear
+            // 
+            btnClear.Location = new Point(59, 162);
+            btnClear.Name = "btnClear";
+            btnClear.Size = new Size(75, 23);
+            btnClear.TabIndex = 9;
+            btnClear.Text = "Clear";
+            btnClear.UseVisualStyleBackColor = true;
+            btnClear.Click += btnClear_Click;
+            // 
             // frmMainForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(532, 326);
+            Controls.Add(btnClear);
             Controls.Add(lblElapsedTime);
             Controls.Add(lblStopTime);
             Controls.Add(lblStartTime);
@@ -129,6 +146,7 @@
             Controls.Add(btnStop);
             Controls.Add(btnStart);
             Name = "frmMainForm";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Stop Watch";
             ResumeLayout(false);
             PerformLayout();
@@ -145,5 +163,6 @@
         private Label lblStartTime;
         private Label lblStopTime;
         private Label lblElapsedTime;
+        private Button btnClear;
     }
 }
