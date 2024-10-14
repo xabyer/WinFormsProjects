@@ -90,7 +90,7 @@
             // lblStartTime
             // 
             lblStartTime.AutoSize = true;
-            lblStartTime.Location = new Point(158, 56);
+            lblStartTime.Location = new Point(208, 52);
             lblStartTime.Name = "lblStartTime";
             lblStartTime.Size = new Size(60, 15);
             lblStartTime.TabIndex = 6;
@@ -99,7 +99,7 @@
             // lblStopTime
             // 
             lblStopTime.AutoSize = true;
-            lblStopTime.Location = new Point(158, 113);
+            lblStopTime.Location = new Point(212, 109);
             lblStopTime.Name = "lblStopTime";
             lblStopTime.Size = new Size(56, 15);
             lblStopTime.TabIndex = 7;
@@ -108,7 +108,7 @@
             // lblElapsedTime
             // 
             lblElapsedTime.AutoSize = true;
-            lblElapsedTime.Location = new Point(158, 171);
+            lblElapsedTime.Location = new Point(176, 166);
             lblElapsedTime.Name = "lblElapsedTime";
             lblElapsedTime.Size = new Size(92, 15);
             lblElapsedTime.TabIndex = 8;
@@ -118,7 +118,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(532, 326);
             Controls.Add(lblElapsedTime);
             Controls.Add(lblStopTime);
             Controls.Add(lblStartTime);
