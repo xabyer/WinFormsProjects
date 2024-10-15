@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Pr01StopWatch")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Pr03BankInterest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90a21f3c0d0db61b68ffe6115d86952bc67d9752")]
-[assembly: System.Reflection.AssemblyProductAttribute("Pr01StopWatch")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Pr01StopWatch")]
+[assembly: System.Reflection.AssemblyProductAttribute("Pr03BankInterest")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Pr03BankInterest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

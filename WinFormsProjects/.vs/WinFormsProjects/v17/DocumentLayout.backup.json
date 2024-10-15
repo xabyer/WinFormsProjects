@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Programar\\Cursos\\Udemy\\C#\\Pavol_Almasi\\WindowsFormsProjects\\WinFormsProjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1F1B135-0919-4987-BF17-5C06C6498F9A}|DatesAndTimer\\Pr02DatesAndTimer.csproj|d:\\programar\\cursos\\udemy\\c#\\pavol_almasi\\windowsformsprojects\\winformsprojects\\datesandtimer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1F1B135-0919-4987-BF17-5C06C6498F9A}|DatesAndTimer\\Pr02DatesAndTimer.csproj|solutionrelative:datesandtimer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1F1B135-0919-4987-BF17-5C06C6498F9A}|DatesAndTimer\\Pr02DatesAndTimer.csproj|d:\\programar\\cursos\\udemy\\c#\\pavol_almasi\\windowsformsprojects\\winformsprojects\\datesandtimer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B1F1B135-0919-4987-BF17-5C06C6498F9A}|DatesAndTimer\\Pr02DatesAndTimer.csproj|solutionrelative:datesandtimer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3BB8FF1F-3D09-4FF0-9D6F-420A7875A614}|Pr03BankInterest\\Pr03BankInterest.csproj|d:\\programar\\cursos\\udemy\\c#\\pavol_almasi\\windowsformsprojects\\winformsprojects\\pr03bankinterest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BB8FF1F-3D09-4FF0-9D6F-420A7875A614}|Pr03BankInterest\\Pr03BankInterest.csproj|solutionrelative:pr03bankinterest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,26 +19,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Programar\\Cursos\\Udemy\\C#\\Pavol_Almasi\\WindowsFormsProjects\\WinFormsProjects\\DatesAndTimer\\Form1.cs",
-              "RelativeDocumentMoniker": "DatesAndTimer\\Form1.cs",
-              "ToolTip": "D:\\Programar\\Cursos\\Udemy\\C#\\Pavol_Almasi\\WindowsFormsProjects\\WinFormsProjects\\DatesAndTimer\\Form1.cs",
-              "RelativeToolTip": "DatesAndTimer\\Form1.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADgvw0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T19:11:13.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Programar\\Cursos\\Udemy\\C#\\Pavol_Almasi\\WindowsFormsProjects\\WinFormsProjects\\DatesAndTimer\\Form1.cs",
-              "RelativeDocumentMoniker": "DatesAndTimer\\Form1.cs",
-              "ToolTip": "D:\\Programar\\Cursos\\Udemy\\C#\\Pavol_Almasi\\WindowsFormsProjects\\WinFormsProjects\\DatesAndTimer\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "DatesAndTimer\\Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Programar\\Cursos\\Udemy\\C#\\Pavol_Almasi\\WindowsFormsProjects\\WinFormsProjects\\Pr03BankInterest\\Form1.cs",
+              "RelativeDocumentMoniker": "Pr03BankInterest\\Form1.cs",
+              "ToolTip": "D:\\Programar\\Cursos\\Udemy\\C#\\Pavol_Almasi\\WindowsFormsProjects\\WinFormsProjects\\Pr03BankInterest\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Pr03BankInterest\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T19:01:42.567Z",
+              "WhenOpened": "2024-10-15T06:48:21.858Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
