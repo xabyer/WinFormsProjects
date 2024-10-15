@@ -63,6 +63,7 @@
             tbNumberMonths.Name = "tbNumberMonths";
             tbNumberMonths.Size = new Size(152, 23);
             tbNumberMonths.TabIndex = 2;
+            tbNumberMonths.KeyPress += tbNumberMonths_KeyPress;
             // 
             // tbFinalBalance
             // 
@@ -116,6 +117,7 @@
             btnCalculate.TabIndex = 8;
             btnCalculate.Text = "Calculate";
             btnCalculate.UseVisualStyleBackColor = true;
+            btnCalculate.Click += btnCalculate_Click;
             // 
             // btnClear
             // 

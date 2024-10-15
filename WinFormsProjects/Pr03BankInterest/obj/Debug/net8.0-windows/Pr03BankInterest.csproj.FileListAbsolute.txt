@@ -1,8 +1,3 @@
-D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\Pr03BankInterest\bin\Debug\net8.0-windows\Pr03BankInterest.exe
-D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\Pr03BankInterest\bin\Debug\net8.0-windows\Pr03BankInterest.deps.json
-D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\Pr03BankInterest\bin\Debug\net8.0-windows\Pr03BankInterest.runtimeconfig.json
-D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\Pr03BankInterest\bin\Debug\net8.0-windows\Pr03BankInterest.dll
-D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\Pr03BankInterest\bin\Debug\net8.0-windows\Pr03BankInterest.pdb
 D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\Pr03BankInterest\obj\Debug\net8.0-windows\Pr03BankInterest.frmBackAccount.resources
 D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\Pr03BankInterest\obj\Debug\net8.0-windows\Pr03BankInterest.csproj.GenerateResource.cache
 D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\Pr03BankInterest\obj\Debug\net8.0-windows\Pr03BankInterest.GeneratedMSBuildEditorConfig.editorconfig
@@ -10,6 +5,11 @@ D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\
 D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\Pr03BankInterest\obj\Debug\net8.0-windows\Pr03BankInterest.AssemblyInfo.cs
 D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\Pr03BankInterest\obj\Debug\net8.0-windows\Pr03BankInterest.csproj.CoreCompileInputs.cache
 D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\Pr03BankInterest\obj\Debug\net8.0-windows\Pr03BankInterest.sourcelink.json
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\Pr03BankInterest\bin\Debug\net8.0-windows\Pr03BankInterest.exe
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\Pr03BankInterest\bin\Debug\net8.0-windows\Pr03BankInterest.deps.json
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\Pr03BankInterest\bin\Debug\net8.0-windows\Pr03BankInterest.runtimeconfig.json
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\Pr03BankInterest\bin\Debug\net8.0-windows\Pr03BankInterest.dll
+D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\Pr03BankInterest\bin\Debug\net8.0-windows\Pr03BankInterest.pdb
 D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\Pr03BankInterest\obj\Debug\net8.0-windows\Pr03BankInterest.dll
 D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\Pr03BankInterest\obj\Debug\net8.0-windows\refint\Pr03BankInterest.dll
 D:\Programar\Cursos\Udemy\C#\Pavol_Almasi\WindowsFormsProjects\WinFormsProjects\Pr03BankInterest\obj\Debug\net8.0-windows\Pr03BankInterest.pdb

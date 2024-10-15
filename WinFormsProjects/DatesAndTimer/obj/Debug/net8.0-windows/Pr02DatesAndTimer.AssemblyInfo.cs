@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pr02DatesAndTimer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+901a640a4efb49455139583584fd192668e950f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc3be257f583f9f67a28b93ca90c0badfcef1529")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pr02DatesAndTimer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pr02DatesAndTimer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
