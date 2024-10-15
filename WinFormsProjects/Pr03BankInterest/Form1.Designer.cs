@@ -47,6 +47,7 @@
             tbMonthlyDeposit.Name = "tbMonthlyDeposit";
             tbMonthlyDeposit.Size = new Size(152, 23);
             tbMonthlyDeposit.TabIndex = 0;
+            tbMonthlyDeposit.KeyPress += tbMonthlyDeposit_KeyPress;
             // 
             // tbYearlyInterest
             // 
@@ -54,6 +55,7 @@
             tbYearlyInterest.Name = "tbYearlyInterest";
             tbYearlyInterest.Size = new Size(152, 23);
             tbYearlyInterest.TabIndex = 1;
+            tbYearlyInterest.KeyPress += tbYearlyInterest_KeyPress;
             // 
             // tbNumberMonths
             // 
@@ -64,6 +66,7 @@
             // 
             // tbFinalBalance
             // 
+            tbFinalBalance.Enabled = false;
             tbFinalBalance.Location = new Point(152, 209);
             tbFinalBalance.Name = "tbFinalBalance";
             tbFinalBalance.Size = new Size(152, 23);
