@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            textBox1 = new TextBox();
+            tbMonthlyDeposit = new TextBox();
             tbYearlyInterest = new TextBox();
             tbNumberMonths = new TextBox();
             tbFinalBalance = new TextBox();
@@ -41,12 +41,12 @@
             btnExit = new Button();
             SuspendLayout();
             // 
-            // textBox1
+            // tbMonthlyDeposit
             // 
-            textBox1.Location = new Point(152, 49);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(152, 23);
-            textBox1.TabIndex = 0;
+            tbMonthlyDeposit.Location = new Point(152, 49);
+            tbMonthlyDeposit.Name = "tbMonthlyDeposit";
+            tbMonthlyDeposit.Size = new Size(152, 23);
+            tbMonthlyDeposit.TabIndex = 0;
             // 
             // tbYearlyInterest
             // 
@@ -122,6 +122,7 @@
             btnClear.TabIndex = 9;
             btnClear.Text = "Clear Boxes";
             btnClear.UseVisualStyleBackColor = true;
+            btnClear.Click += btnClear_Click;
             // 
             // btnExit
             // 
@@ -132,6 +133,7 @@
             btnExit.TabIndex = 10;
             btnExit.Text = "Exit";
             btnExit.UseVisualStyleBackColor = true;
+            btnExit.Click += btnExit_Click;
             // 
             // frmBackAccount
             // 
@@ -148,7 +150,7 @@
             Controls.Add(tbFinalBalance);
             Controls.Add(tbNumberMonths);
             Controls.Add(tbYearlyInterest);
-            Controls.Add(textBox1);
+            Controls.Add(tbMonthlyDeposit);
             Name = "frmBackAccount";
             Text = "Bank Account Interest";
             ResumeLayout(false);
@@ -157,7 +159,7 @@
 
         #endregion
 
-        private TextBox textBox1;
+        private TextBox tbMonthlyDeposit;
         private TextBox tbYearlyInterest;
         private TextBox tbNumberMonths;
         private TextBox tbFinalBalance;

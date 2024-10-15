@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Programar\\Cursos\\Udemy\\C#\\Pavol_Almasi\\WindowsFormsProjects\\WinFormsProjects\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3BB8FF1F-3D09-4FF0-9D6F-420A7875A614}|Pr03BankInterest\\Pr03BankInterest.csproj|d:\\programar\\cursos\\udemy\\c#\\pavol_almasi\\windowsformsprojects\\winformsprojects\\pr03bankinterest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB8FF1F-3D09-4FF0-9D6F-420A7875A614}|Pr03BankInterest\\Pr03BankInterest.csproj|solutionrelative:pr03bankinterest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3BB8FF1F-3D09-4FF0-9D6F-420A7875A614}|Pr03BankInterest\\Pr03BankInterest.csproj|d:\\programar\\cursos\\udemy\\c#\\pavol_almasi\\windowsformsprojects\\winformsprojects\\pr03bankinterest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3BB8FF1F-3D09-4FF0-9D6F-420A7875A614}|Pr03BankInterest\\Pr03BankInterest.csproj|solutionrelative:pr03bankinterest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Programar\\Cursos\\Udemy\\C#\\Pavol_Almasi\\WindowsFormsProjects\\WinFormsProjects\\Pr03BankInterest\\Form1.cs",
+              "RelativeDocumentMoniker": "Pr03BankInterest\\Form1.cs",
+              "ToolTip": "D:\\Programar\\Cursos\\Udemy\\C#\\Pavol_Almasi\\WindowsFormsProjects\\WinFormsProjects\\Pr03BankInterest\\Form1.cs",
+              "RelativeToolTip": "Pr03BankInterest\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:27:12.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Programar\\Cursos\\Udemy\\C#\\Pavol_Almasi\\WindowsFormsProjects\\WinFormsProjects\\Pr03BankInterest\\Form1.cs",
               "RelativeDocumentMoniker": "Pr03BankInterest\\Form1.cs",
